@@ -3,3 +3,7 @@ test2
 test3
 test4
 test5
+
+rebase-test1
+rebase-test3
+rebase-test4
